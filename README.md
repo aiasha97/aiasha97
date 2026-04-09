@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About me:
+
+I'm a software engineer who is passionate about solving real world problems with software. I enjoy learning and documenting my journey. I'm interested in Automation, Healthcare, EdTech and Open Source Software.
+
+- 🔭 I’m currently working on Imtihan.
