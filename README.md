@@ -19,4 +19,15 @@ Here are some ideas to get you started:
 
 I'm a software engineer who is passionate about solving real world problems with software. I enjoy learning and documenting my journey. I'm interested in Automation, Healthcare, EdTech and Open Source Software.
 
-- 🔭 I’m currently working on Imtihan.
+- 🔭 I’m currently working on Imtihan, an open source examination platform for online educational programs.
+
+## My skills:
+
+I'm proficient with:
+Languages: Python, TypeScript.
+Frameworks/Libraries: React, FastAPI, Node, Next.js, PyTorch.
+Databases: Postgres, MongoDB.
+
+## Currently Learning:
+
+Docker, Kubernetes, LangChain & LangGraph, and AWS.
