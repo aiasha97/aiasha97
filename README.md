@@ -21,7 +21,7 @@ I'm a software engineer who is passionate about solving real world problems with
 
 - 🔭 I’m currently working on Imtihan, an open source examination platform for online educational programs.
 
-
+<!--
 ## Tools I'm proficient with:
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
@@ -45,3 +45,4 @@ I'm a software engineer who is passionate about solving real world problems with
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45" />
 <img src="https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain" />
 </p>
+-->
